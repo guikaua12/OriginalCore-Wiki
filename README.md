@@ -28,17 +28,18 @@
 | oc.tags.admin             | Admins permission to use commands such as create/remove,etc       |
 
 ## Placeholders
-| Placeholder                  | Description                                              |
-|:-----------------------------|----------------------------------------------------------|
-| %OriginalCore_fly_timeleft%  | Return the player time left for the fly                  |
-| .                            | .                                                        |
-| OriginalCore_tag_identifier% | Return the tag identifier.                               |
-| %OriginalCore_tag_tag%       | Return the tag that the player is using                  |
-| %OriginalCore_description%   | Return the tag description                               |
-| %OriginalCore_tag_amount%    | Return the amount of tags that the player have access to |
-| .                            | .                                                        |
-| %OriginalCore_vanish_count%  | Return the amount of vanished players                    |
-|                              |                                                          |
+| Placeholder                   | Description                                              |
+|:------------------------------|----------------------------------------------------------|
+| %OriginalCore_fly_timeleft%   | Return the player time left for the fly                  |
+| .                             | .                                                        |
+| OriginalCore_tag_identifier%  | Return the tag identifier.                               |
+| %OriginalCore_tag_tag%        | Return the tag that the player is using                  |
+| %OriginalCore_description%    | Return the tag description                               |
+| %OriginalCore_tag_amount%     | Return the amount of tags that the player have access to |
+| .                             | .                                                        |
+| %OriginalCore_vanish_count%   | Return the amount of vanished players                    |
+| .                             |                                                          |
+| %OriginalCore_ogcoins_amount% | Return the player balance                                |
 
 ## OGCoins
 | Command                         | Description                                                                   | Permission Node      |
